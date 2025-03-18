@@ -8,7 +8,7 @@ Előfeltételek:
 
 Futtatás:
 
-Terminálba: dotnet run
+Terminálba belemész abba a mappába ahol megtalálható a Program.cs majd a következő parancsot adod ki: dotnet run
 
 Ezután kapsz választási opciókat:
 
